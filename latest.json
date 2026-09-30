@@ -1,6 +1,7 @@
 {
-  "name": "3DMT",
   "version": "0.93",
-  "url": "https://github.com/fahrettinshouse/3dmt-updates/releases/download/v0.93/3DMT.v0.93.zip",
-  "sha256": "sha256:07d2f3e0ef511dc5d691386b3430d710b841ffdacf02a5d6ec397bee0206842a"
+  "tag": "v0.93",
+  "file": "3DMT.v0.93.zip",
+  "download_url": "https://github.com/fahrettinshouse/3dmt-updates/releases/download/v0.93/3DMT.v0.93.zip",
+  "sha256": "07d2f3e0ef511dc5d691386b3430d710b841ffdafc02a5d6ec397bee0206842a"
 }
