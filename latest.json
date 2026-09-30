@@ -1,8 +1,8 @@
 {
-    "version":  "0.95",
-    "tag":  "v0.95",
-    "file":  "v0.95.zip",
-    "download_url":  "https://github.com/fahrettinshouse/3dmt-updates/releases/download/v0.95/v0.95.zip",
-    "sha256":  "4a6ed067d8150a6a8096aacf90cbe30bc9f378b77f379182365d0489d24199ce",
-    "published_at":  "2026-09-30T11:05:37Z"
+    "version":  "0.96",
+    "tag":  "v0.96",
+    "file":  "v0.96.zip",
+    "download_url":  "https://github.com/fahrettinshouse/3dmt-updates/releases/download/v0.96/v0.96.zip",
+    "sha256":  "dffa4fb285500874f7201e55b87e211f7860213debb4e643407c3743b4aeefc0",
+    "published_at":  "2026-09-30T11:24:02Z"
 }
